@@ -172,7 +172,7 @@ a {
 
 .btn {
   display: inline-flex;
-  alignItems: center;
+  align-items: center;
   justify-content: center;
   gap: 0.5rem;
   min-height: 2.85rem;
